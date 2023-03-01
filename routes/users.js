@@ -7,6 +7,7 @@ let users = [
   { id: 3, name: 'Adam', lastName: 'Row' },
   { id: 4, name: 'Anne', lastName: 'Now' },
   { id: 5, name: 'Bert', lastName: 'Low' },
+  { id: 6, name: 'Alice', lastName: 'Sow' },
 ];
 
 
